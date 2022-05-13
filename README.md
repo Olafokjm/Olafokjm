@@ -12,4 +12,7 @@
 <code><img width="30px" src="img/python-5.svg"></code>
 
 <h1>Contact</h1>
-<a href=""><img width="20px" src="img/linkedin-icon-2.svg"></a>     <a href=""><img width="20px" src="img/whatsapp-icon.svg"></a>     <a href=""><img width="20px" src="img/telegram.svg"></a>     <a href=""><img width="20px" src="img/discord.svg"></a>
+<code><a href=""><img width="20px" src="img/linkedin-icon-2.svg"></a></code>
+<code><a href=""><img width="20px" src="img/whatsapp-icon.svg"></a></code>
+<code><a href=""><img width="20px" src="img/telegram.svg"></a></code>
+<code><a href=""><img width="20px" src="img/discord.svg"></a></code>
