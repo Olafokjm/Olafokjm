@@ -1,4 +1,4 @@
-<img src="img/kevin_banner.jpg"><br>
+<img src="img/kevin_banner.jpg"><br/>
 
 <p>Hi there, I'm on my way to learn more and more about this beatiful career.</p>
 
@@ -8,12 +8,13 @@
 <img align="left" width="30px" src="img/php-1.svg" name="PHP">
 
 <h2>Skills under construction</h2>
-
+<br/>
 <img align="left" width="30px" src="img/logo-javascript.svg" name="JAVASCRIPT">
 <img align="left" width="30px" src="img/python-5.svg" name="PYTHON">
 
+<br/>
 <h1>Contact</h1>
-
+<br/>
 <a href=""><img align="left" width="20px" src="img/linkedin-icon-2.svg" name="Linkedin"></a>
 <a href=""><img align="left" width="20px" src="img/whatsapp-icon.svg" name="Whatsapp"></a>
 <a href=""><img align="left" width="20px" src="img/telegram.svg" name="Telegram"></a>
