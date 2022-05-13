@@ -1,1 +1,1 @@
-<img src="/img/KEVIN JULIO M.">
+<img src="img/kevin_banner.jpg">
