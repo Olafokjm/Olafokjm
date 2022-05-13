@@ -11,4 +11,4 @@
 <br>
 <br>
 <h1>Contact</h1>
-<a href="https://www.linkedin.com/in/kevinjm1987/" target="_blank"><img align="left" width="20px" src="img/linkedin-icon-2.svg" alt="Linkedin"></a><a href="" target="_blank"><img align="left" width="20px" src="img/whatsapp-icon.svg" alt="Whatsapp"></a><a href="" target="_blank"><img align="left" width="20px" src="img/telegram.svg" alt="Telegram"></a><a href="" target="_blank"><img align="left" width="20px" src="img/discord.svg" alt="Discord"></a>
+<a href="https://www.linkedin.com/in/kevinjm1987/" target="_blank"><img align="left" width="20px" src="img/linkedin-icon-2.svg" alt="Linkedin"></a><a href="https://walink.co/8788e5" target="_blank"><img align="left" width="20px" src="img/whatsapp-icon.svg" alt="Whatsapp"></a></a>
