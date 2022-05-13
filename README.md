@@ -7,11 +7,13 @@
 <img align="left" width="30px" src="img/css-3.svg" name="CSS">
 <img align="left" width="30px" src="img/php-1.svg" name="PHP">
 
-<h2>Skills on construction</h2>
+<h2>Skills under construction</h2>
+
 <img align="left" width="30px" src="img/logo-javascript.svg" name="JAVASCRIPT">
 <img align="left" width="30px" src="img/python-5.svg" name="PYTHON">
 
 <h1>Contact</h1>
+
 <a href=""><img align="left" width="20px" src="img/linkedin-icon-2.svg" name="Linkedin"></a>
 <a href=""><img align="left" width="20px" src="img/whatsapp-icon.svg" name="Whatsapp"></a>
 <a href=""><img align="left" width="20px" src="img/telegram.svg" name="Telegram"></a>
