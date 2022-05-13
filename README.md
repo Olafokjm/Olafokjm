@@ -1,6 +1,6 @@
-<img border-radius="5px" src="img/kevin_banner.jpg">
+<img style="border-radius:8px;" src="img/kevin_banner.jpg">
 <br>
-<p color="blue">Hi there, I'm on my way to learn more and more about this beatiful career.</p>
+<p stye="color:blue;">Hi there, I'm on my way to learn more and more about this beatiful career.</p>
 
 <h1>Skills</h1>
 <img align="left" width="30px" src="img/html-1.svg" alt="HTML"><img align="left" width="30px" src="img/css-3.svg" alt="CSS"><img align="left" width="30px" src="img/php-1.svg" alt="PHP">
