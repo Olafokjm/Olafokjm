@@ -1,4 +1,4 @@
-<img border="radius 5px" src="img/kevin_banner.jpg">
+<img src="img/kevin_banner.jpg">
 <br>
 <p>Hi there, I'm on my way to learn more and more about this beatiful career.</p>
 
