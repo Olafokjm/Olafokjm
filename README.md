@@ -5,12 +5,9 @@
 <h1>Skills</h1>
 <img align="left" width="30px" src="img/html-1.svg" alt="HTML">
 <img align="left" width="30px" src="img/css-3.svg" alt="CSS">
+<img align="left" width="30px" src="img/bootstrap-logo-shadow.png" alt="BOOTSTRAP">
 <img align="left" width="30px" src="img/logo-javascript.svg" alt="JAVASCRIPT">
 <img align="left" width="30px" src="img/php-1.svg" alt="PHP">
-<br>
-<br>
-<h2>Skills under construction</h2>
-<img align="left" width="30px" src="img/python-5.svg" alt="PYTHON">
 <br>
 <br>
 <h1>Contact</h1>
